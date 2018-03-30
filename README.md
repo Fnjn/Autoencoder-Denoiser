@@ -8,25 +8,25 @@ The network structure is simple, but very effective. I use mnist dataset as exam
 
 ### Training Data
 
-Reconstructed training image (3000 iterations)
+Reconstructed training image (3000 iterations)<br/>
 ![train-3000-iters](Examples/train-3000-iters.png)
 
-Reconstructed training image (6000 iterations)
+<br/>Reconstructed training image (6000 iterations)<br/>
 ![train-6000-iters](Examples/train-6000-iters.png)
 
-Reconstructed training image (9000 iterations)
+<br/>Reconstructed training image (9000 iterations)<br/>
 ![train-9000-iters](Examples/train-9000-iters.png)
 
 ### Test data
 
-Noisy image 1
+Noisy image 1<br/>
 ![test-noisy-1](Examples/test-noisy-1.png)
 
-Reconstructed image 1
+<br/>Reconstructed image 1<br/>
 ![test-reconstructed-1](Examples/test-reconstructed-1.png)
 
-Noisy image 2
+<br/>Noisy image 2<br/>
 ![test-noisy-2](Examples/test-noisy-2.png)
 
-Reconstructed image 2
+<br/>Reconstructed image 2<br/>
 ![test-reconstructed-2](Examples/test-reconstructed-2.png)
